@@ -7,12 +7,14 @@ A clone project of an existing mobile app
 ### <i>2020.05.05 with dummy texts</i>
 <img src="https://github.com/lpaqkosw/readmeImages/blob/master/nativetest/prototype.jpg" width="500" height="888">
 <br><br><br><br>
+
 ## Objective
 * Try developing a mobile app
 * Get used to React
 * Learn SVG component
 * Learn d3.js
 <br><br><br><br>
+
 ## Tools & Frameworks used
 * Expo & React-native
 * SVG
