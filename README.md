@@ -4,7 +4,7 @@
 A clone project of an existing mobile app
 ## ##In Progress##
 2020.05.05 - Pending for AirQuality APIkey registration
-### <i>2020.05.05</i>
+### <i>2020.05.05 with dummy texts</i>
 <img src="https://github.com/lpaqkosw/readmeImages/blob/master/nativetest/prototype.jpg" width="500" height="888">
 <br><br><br><br>
 ## Objective
