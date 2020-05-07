@@ -17,7 +17,6 @@ A toy clone project inspired by an existing <a href="https://play.google.com/sto
 
 ## Tools & Frameworks used
 * Expo & React-native
-* SVG
 * External apis & libraries
 <br><br><br><br>
 ## Features
