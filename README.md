@@ -17,7 +17,8 @@ A toy clone project inspired by an existing <a href="https://play.google.com/sto
 
 ## Tools & Frameworks used
 * Expo & React-native
-* External apis & libraries
+* External apis 
+* Graphics libraries
 <br><br><br><br>
 ## Features
 ### 1. Fetch Comprehensive Air-quality Index(CAI) by current location
