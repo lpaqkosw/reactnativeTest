@@ -25,9 +25,6 @@ A toy clone project inspired by an existing <a href="https://play.google.com/sto
 ### 2. Display data with animated SVGs
 <br><br><br><br>
 
-## Difficulties I have faced
-* Unfamiliar environment (mobile)
-* Drawing SVGs
 
 ## Future Plans
 * Animate SVGs
