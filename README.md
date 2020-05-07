@@ -4,7 +4,7 @@
 A toy clone project inspired by an existing <a href="https://play.google.com/store/apps/details?id=com.softworx.cai">mobile app</a>
 ## ##In Progress##
 2020.05.05 - Pending for AirQuality APIkey registration
-### <i>2020.05.05 with dummy texts</i>
+### <i>2020.05.05 with dummy texts dummy data</i>
 <img src="https://github.com/lpaqkosw/readmeImages/blob/master/nativetest/prototype.jpg" width="500" height="888">
 <br><br><br><br>
 
