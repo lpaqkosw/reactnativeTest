@@ -1,7 +1,7 @@
 # reactnativeTest
 2020.05
 <br>
-A toy clone project inspired by an existing <a href="https://play.google.com/store/apps/details?id=com.softworx.cai">mobile app</a>
+A toy clone project inspired by an existing <a href="https://play.google.com/store/apps/details?id=com.softworx.cai">mobile app</a> that fetches Comprehensive Air-quality Index according to current location.
 ## ##In Progress##
 2020.05.05 - Pending for AirQuality APIkey registration
 ### <i>2020.05.05 with dummy texts dummy data</i>
@@ -10,7 +10,7 @@ A toy clone project inspired by an existing <a href="https://play.google.com/sto
 
 ## Objective
 * Try developing a mobile app
-* Get used to React
+* Learn Reactnative
 * Learn SVG component
 * Learn d3.js
 <br><br><br><br>
